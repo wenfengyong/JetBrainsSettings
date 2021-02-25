@@ -3,59 +3,130 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://git.iflytek.com/EPD_ECT/ect-back.git" />
+          <option name="url" value="ssh://git@git.polyv.net:18823/vod/polyv-parent.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://git.iflytek.com" />
-          <option name="userName" value="fywen" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://git.iflytek.com/fywen/ect-live.git" />
+          <option name="url" value="http://git.polyv.net/vod/polyv-parent.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://git.iflytek.com/EPD_ECT/ect-sms.git" />
+          <option name="url" value="http://git.polyv.net/backend/da/da-nearline.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://git.iflytek.com/EPD_ECT/ect-live.githttps://git.iflytek.com/EPD_ECT/ect-live.git" />
+          <option name="url" value="https://github.com/wenfengyong/wenfengyong.github.io.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://git.iflytek.com/EPD_ECT/ect-live.git" />
+          <option name="url" value="https://github.com/wenfengyong/wenfengyong.gothub.io.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://git.iflytek.com/EPD_ECT/ect-live-server.git" />
+          <option name="url" value="ssh://git@git.polyv.net:18823/ext/iac-read.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://git.iflytek.com/EPD_CT/ct-r2.git" />
+          <option name="url" value="http://git.polyv.net/ext/iac-read.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://git.iflytek.com/EPD_ECT/ect-live-callback-server.git" />
+          <option name="url" value="http://git.polyv.net" />
+          <option name="userName" value="wenfengyong" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.polyv.net/live/private.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://git.iflytek.com/EPD_ECT/ect-admin-fe.git" />
+          <option name="url" value="https://github.com/wenfengyong/spring-boot-plus.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/wenfengyong/toolbox.git" />
+          <option name="url" value="ssh://git@git.polyv.net:18823/vod/statistics.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://git.iflytek.com/EPD_ECT/ect-operation.git" />
+          <option name="url" value="http://git.polyv.net/vod/statistics.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.polyv.net/live/webinar.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/easefun/java-live-sdk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/wenfengyong/ParamValidation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/wenfengyong/book-push.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@git.polyv.net:18823/backend/common/gateway.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.polyv.net/backend/common/gateway.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.polyv.net/ovp/ovp-parent.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.polyv.net/backend/common/alioss-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.polyv.net/ccb-ulv-jenkins/ccb-ulv-project.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.polyv.net/ccb-ulv-jenkins/ccb-ulv-html-page.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.polyv.net/ccb-ulv-jenkins/ccb-ulv-admin-page.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.polyv.net/backend/common/grab.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.polyv.net/live/chat-node.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/arthas/arthas.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.polyv.net/backend/common/activity.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/wenfengyong/live.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="wenfengyong" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/wenfengyong/uninav.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\code\EPD_ECT" />
+    <option name="cloneParentDir" value="C:\Users\nemo\IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />
@@ -66,6 +137,7 @@
     </option>
   </component>
   <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Desktop" />
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>

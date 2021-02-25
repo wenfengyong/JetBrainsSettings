@@ -22,12 +22,8 @@
     <mask>*.js</mask>
     <mask>*Validator.java</mask>
     <mask>*.ftl</mask>
-    <mask>*.json</mask>
-    <mask>*Controller.java</mask>
-    <mask>*Contants.java</mask>
-    <mask>*Constants.java</mask>
-    <mask>pom.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.json</mask>
     <mask>*.java</mask>
   </component>
 </application>

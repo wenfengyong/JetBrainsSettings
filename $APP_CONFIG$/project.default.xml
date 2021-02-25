@@ -1,13 +1,6 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="MavenImportPreferences">
-        <option name="generalSettings">
-          <MavenGeneralSettings>
-            <option name="mavenHome" value="D:\soft\idea\plugins\maven\lib\maven3" />
-          </MavenGeneralSettings>
-        </option>
-      </component>
       <component name="NamedScopeManager">
         <scope name="nemo" pattern="src:*..*||lib:*..*||test:*..*" />
       </component>

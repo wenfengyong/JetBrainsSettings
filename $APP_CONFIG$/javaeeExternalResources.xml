@@ -1,6 +1,5 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
-    <resource url="https://checkstyle.org/dtds/configuration_1_3.dtd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.3/extResources/385f0dd3_configuration_1_3.dtd" />
   </component>
 </application>

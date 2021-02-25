@@ -4,13 +4,13 @@
     <property name="created">2019-10-09T17:04:31</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2020-12-04T14:08:26</property>
+    <property name="modified">2020-07-26T12:18:48</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_NAME" value="YaHei Monaco Hybird" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
@@ -213,6 +213,7 @@
       <value>
         <option name="FOREGROUND" value="5cc5" />
         <option name="EFFECT_COLOR" value="5cc5" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -482,6 +483,7 @@
     <option name="GHERKIN_PYSTRING" baseAttributes="DEFAULT_STRING" />
     <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
+    <option name="HOCON_SUBSTITUTION_SIGN" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="HTML_CODE">
       <value />
     </option>

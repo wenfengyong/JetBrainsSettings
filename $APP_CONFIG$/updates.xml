@@ -12,10 +12,11 @@
       <item value="Android SDK" />
     </knownExternalComponentSources>
     <option name="LAST_BUILD_CHECKED" value="IU-203.7148.57" />
-    <option name="LAST_TIME_CHECKED" value="1614233240643" />
+    <option name="LAST_TIME_CHECKED" value="1614261191926" />
     <pluginHosts>
       <item value="https://repo.idechajian.com" />
     </pluginHosts>
     <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+    <option name="UPDATE_CHANNEL_TYPE" value="beta" />
   </component>
 </application>

@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.live.web.v2.controller.common.BaseController.fail(responseCode,messageParam)" />
+      </blacklist>
+    </blacklists>
+    <option id="sql.show.column.names.in.select" value="true" />
+  </component>
+</application>

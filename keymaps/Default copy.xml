@@ -1,0 +1,71 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="ActivateRESTClientToolWindow">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="ActivateemBrowserToolWindow">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="ChangesView.AddUnversioned">
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="ConvertJavaToKotlin" />
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="alt period" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="alt comma" />
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="Maven.Reimport">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
+  <action id="RestoreDefaultLayout">
+    <keyboard-shortcut first-keystroke="shift f12" />
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="TogglePresentationMode">
+    <keyboard-shortcut first-keystroke="alt y" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+</keymap>

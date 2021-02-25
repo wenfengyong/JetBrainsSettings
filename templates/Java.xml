@@ -1,0 +1,8 @@
+<templateSet group="Java">
+  <template name="swg" value="&#10;@ApiOperation(value = &quot;&quot;, notes = &quot;文丰勇&quot;)&#10;@ApiImplicitParams({&#10;$apiparams$&#10;})" shortcut="ENTER" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="apiparams" expression="" defaultValue="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {result+='\\t@ApiImplicitParam(name = \&quot;'+params[i]+'\&quot;, value = \&quot;\&quot;, paramType = \&quot;query\&quot;)' + ((i &lt; params.size() - 1) ? ',\\n':'')}; return result&quot;, methodParameters()) " alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

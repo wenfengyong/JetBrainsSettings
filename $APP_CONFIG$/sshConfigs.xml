@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="183.61.80.160" id="86a168a4-e8c9-4178-8e2e-7edc87781c54" keyPath="C:\Users\lenovo\Desktop\文件\wfy_key" port="18823" username="wenfengyong" />
+    </configs>
+  </component>
+</application>

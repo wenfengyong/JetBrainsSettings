@@ -1,0 +1,72 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="2680" />
+    <option name="newTranslationDialogY" value="455" />
+    <histories>
+      <item value="Menber" />
+      <item value="choice" />
+      <item value="选项" />
+      <item value="Attribute" />
+      <item value="生效的" />
+      <item value="员工" />
+      <item value="属性" />
+      <item value="拼凑" />
+      <item value="拼接" />
+      <item value="contact" />
+      <item value="state" />
+      <item value="too early before start time" />
+      <item value="未到开播时间" />
+      <item value="Paginator" />
+      <item value="releases" />
+      <item value="avatar" />
+      <item value="registrated" />
+      <item value="enter" />
+      <item value="权限" />
+      <item value="REQUEST THIRD PARTY FAILED" />
+      <item value="Compliant" />
+      <item value="encrypt" />
+      <item value="Nonce" />
+      <item value="FORMATTER" />
+      <item value="CONCAT" />
+      <item value="to be continue" />
+      <item value="to be continued" />
+      <item value="stranger" />
+      <item value="这是对外的接口" />
+      <item value="匿名者" />
+      <item value="Whitespace and control characters in literals should be explicit" />
+      <item value="list Studied Course Id" />
+      <item value="creator" />
+      <item value="组装" />
+      <item value="Studied" />
+      <item value="last Modified" />
+      <item value="COMMA" />
+      <item value="tenant Id" />
+      <item value="manual" />
+      <item value="mannual" />
+      <item value="modified" />
+      <item value="学员" />
+      <item value="Condition" />
+      <item value="Fliter" />
+      <item value="abandent" />
+      <item value="bandent" />
+      <item value="specific Course Ids" />
+      <item value="特有" />
+      <item value="专属" />
+      <item value="list User Course Id Except All" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
+        <entry key="FRENCH" value="1" />
+        <entry key="CZECH" value="1" />
+        <entry key="ROMANIAN" value="1" />
+        <entry key="ITALIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="translator" value="BAIDU" />
+  </component>
+</application>
